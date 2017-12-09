@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Prerequisites 
+ruby 2.4.1 
+Rails 5.1.0
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+git clone https://github.com/xavierwalker/checklist_app.git
+cd into directory 
+bundle install
 
-* Configuration
+devise is installed so you will have to make an account 
+the user is able to post, mark as complete, and delete content.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
